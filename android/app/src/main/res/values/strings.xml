@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">KINZA SNAKE</string>
+    <string name="title_activity_main">KINZA SNAKE</string>
+    <string name="package_name">com.kinza.snake</string>
+    <string name="custom_url_scheme">com.kinza.snake</string>
+</resources>
